@@ -1,0 +1,5 @@
+homescreen->
+User login, admin login and new user registration
+
+user login-> see list of books, issue/return/add to favorite books.
+admin-> All CRUD operation
